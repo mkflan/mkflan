@@ -22,5 +22,4 @@ jobs:
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_notable: yes
-          plugin_calender: yes
           plugin_languages: yes
