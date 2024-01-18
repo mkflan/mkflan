@@ -18,7 +18,7 @@ jobs:
           user: mkflan
           template: classic
           config_timezone: America/Chicago
-          base: header, activity, community, repository
+          base: header, activity, community
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_notable: yes
