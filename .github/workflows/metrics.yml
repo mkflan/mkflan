@@ -29,3 +29,4 @@ jobs:
           plugin_notable_types: issue, pull_request, commit
           plugin_languages: yes
           plugin_languages_categories: programming
+          plugin_calender: yes
